@@ -1,0 +1,500 @@
+{
+  "settings": {
+    "currentPage": "social_video_platforms.html",
+    "versionFirst": "3.8.4",
+    "uniqCompNum": 12,
+    "versionPublish": "3.11",
+    "name": "site two",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#f91deb",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    }
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Casual Spreadsheets HOME",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#efefef"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#efefef"
+            },
+            ".link, .dropdown-item": {
+              "color": "#efefef"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#2a2a2a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#3b3b3b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#434343"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#efefef",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f91deb!important"
+            },
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1",
+          "_params": {
+            "bgColor": "#434343",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#efefef",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/copy-of-casual-spreadsheets-icon-2-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Casual Spreadsheets</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SHOWBIZ SHEETS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">cordcutters' delight<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">retired comedy phrases<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">24/7 free TV livestreams<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">paid content (it happens)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Personal Brand media companies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">podcast + wattpad + web series -&gt; TV deals<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">notebook: 2016 VidCon announcements and launches<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOCIAL SHEETS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">abandoning Tumblr</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">social platform video rosetta stone</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">social commerce: Buy Button graveyard</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">notebook: the webification of snapchat</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">notebook: behind the social + content algorithms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">but can ya make money: native social monetization<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">draft: social platform strengths (paid subscribers only)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">draft: discovery vectors + social gestures&nbsp;(paid subscribers only)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Facebook + Instagram takedown reversals (paid subscribers only)</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"what_the.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">POPULAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">retired comedy phrases</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">social platform video rosetta stone</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">notebook: behind the social + content algorithms</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://twitter.com/casualsheets\" aria-expanded=\"false\" target=\"_blank\">@casualsheets</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">GIMME<br></a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-9",
+          "_params": {
+            "imageSize": 50,
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/math-lady-meme-2000x1305.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/view-spreadsheet-tease-1400x873.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "CASUAL<br>SPREADSHEETS",
+          "text": "Messy spreadsheets mostly about social media, showbiz, and streaming,.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">I'M CASUAL-CURIOUS</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "right",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        }
+      ]
+    },
+    "what_the.html": {
+      "settings": {
+        "title": "What the...",
+        "meta_descr": "What is this, and how did you get here?"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#efefef"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#efefef"
+            },
+            ".link, .dropdown-item": {
+              "color": "#efefef"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#2a2a2a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#3b3b3b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#434343"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#efefef",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f91deb!important"
+            },
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-4",
+          "_params": {
+            "bgColor": "#434343",
+            "fontSize": "1.05",
+            "fontName": {},
+            "fontColor": "#efefef",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/copy-of-casual-spreadsheets-icon-2-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Casual Spreadsheets</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SHOWBIZ SHEETS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">cordcutters' delight<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">retired comedy phrases<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">24/7 free TV livestreams<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">paid content (it happens)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Personal Brand media companies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">podcast + wattpad + web series -&gt; TV deals<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">notebook: 2016 VidCon announcements and launches<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOCIAL SHEETS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">abandoning Tumblr</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">social platform video rosetta stone</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">social commerce: Buy Button graveyard</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">notebook: the webification of snapchat</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">notebook: behind the social + content algorithms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">but can ya make money: native social monetization<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">draft: social platform strengths (paid subscribers only)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">draft: discovery vectors + social gestures&nbsp;(paid subscribers only)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Facebook + Instagram takedown reversals (paid subscribers only)</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"what_the.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">POPULAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">retired comedy phrases</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">social platform video rosetta stone</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">notebook: behind the social + content algorithms</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://twitter.com/casualsheets\" aria-expanded=\"false\" target=\"_blank\">@casualsheets</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">GIMME<br></a></li>"
+        }
+      ]
+    },
+    "test_embed.html": {
+      "settings": {
+        "title": "Page to test sheet embed",
+        "meta_descr": "description was here"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#efefef"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#efefef"
+            },
+            ".link, .dropdown-item": {
+              "color": "#efefef"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#2a2a2a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#3b3b3b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#434343"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#efefef",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f91deb!important"
+            },
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-4",
+          "_params": {
+            "bgColor": "#434343",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#efefef",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/copy-of-casual-spreadsheets-icon-2-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Casual Spreadsheets</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SHOWBIZ SHEETS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">cordcutters' delight<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">retired comedy phrases<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">24/7 free TV livestreams<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">paid content (it happens)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Personal Brand media companies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">podcast + wattpad + web series -&gt; TV deals<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">notebook: 2016 VidCon announcements and launches<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOCIAL SHEETS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">abandoning Tumblr</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">social platform video rosetta stone</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">social commerce: Buy Button graveyard</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">notebook: the webification of snapchat</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">notebook: behind the social + content algorithms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">but can ya make money: native social monetization<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">draft: social platform strengths (paid subscribers only)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">draft: discovery vectors + social gestures&nbsp;(paid subscribers only)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Facebook + Instagram takedown reversals (paid subscribers only)</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"what_the.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">POPULAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">retired comedy phrases</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">social platform video rosetta stone</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">notebook: behind the social + content algorithms</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://twitter.com/casualsheets\" aria-expanded=\"false\" target=\"_blank\">@casualsheets</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">GIMME<br></a></li>"
+        }
+      ]
+    },
+    "social_video_platforms.html": {
+      "settings": {
+        "title": "social video platforms rosetta stone",
+        "meta_descr": "All about social video platforms: youtube, vimeo, twitter, facebook, instagram, tumblr, vidme, younow"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#efefef"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#efefef"
+            },
+            ".link, .dropdown-item": {
+              "color": "#efefef"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#2a2a2a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#3b3b3b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#434343"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#efefef",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f91deb!important"
+            },
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-b",
+          "_params": {
+            "bgColor": "#434343",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#efefef",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/copy-of-casual-spreadsheets-icon-2-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Casual Spreadsheets</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SHOWBIZ SHEETS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">cordcutters' delight<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">retired comedy phrases<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">24/7 free TV livestreams<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">paid content (it happens)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Personal Brand media companies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">podcast + wattpad + web series -&gt; TV deals<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">notebook: 2016 VidCon announcements and launches<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SOCIAL SHEETS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">abandoning Tumblr</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">social platform video rosetta stone</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">social commerce: Buy Button graveyard</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">notebook: the webification of snapchat</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">notebook: behind the social + content algorithms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">but can ya make money: native social monetization<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">draft: social platform strengths (paid subscribers only)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">draft: discovery vectors + social gestures&nbsp;(paid subscribers only)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Facebook + Instagram takedown reversals (paid subscribers only)</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"what_the.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">POPULAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">retired comedy phrases</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">social platform video rosetta stone</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">notebook: behind the social + content algorithms</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://twitter.com/casualsheets\" aria-expanded=\"false\" target=\"_blank\">@casualsheets</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">GIMME<br></a></li>"
+        }
+      ]
+    }
+  }
+}
